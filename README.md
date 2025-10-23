@@ -1,0 +1,2 @@
+# deepseek
+ai install
